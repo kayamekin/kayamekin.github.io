@@ -107,6 +107,7 @@ i {
 .portfolio_title_area .portfolio_text {
     margin: 50px auto 0px 0px;
     color: white;
+    font-size:24;
 }
 
 .main {
@@ -263,6 +264,7 @@ i {
 
 .about_title_area .about_text {
     margin: 0 auto;
+    font-size:24;
 }
 
 /* ========= about end ======== */
@@ -472,10 +474,6 @@ i {
 
     .about_title_area {
         width: 80%;
-    }
-
-    .about_text {
-        font-size: 18px;
     }
 
     /* ========= About (mobile) end 850px ======== */
